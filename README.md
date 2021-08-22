@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Aprender Programação
 - 🌱 I’m currently learning  Java, PHP  POO e Redes
 - 💞️ I’m looking to collaborate on  GitHub e aprender a Interagir  com  outros programadores.
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/adriano-santos-a09614b1/
 
 <!---
 AdrianoAGDS/AdrianoAGDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
