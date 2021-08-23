@@ -22,7 +22,7 @@
         function mudaLampada(tipo){
        
             if (!quebrada){
-            document.getElementById("luz").src="imagens/" + tipo + ".jpg";
+            document.getElementById("luz").src="Projeto Java Script/imagens/" + tipo + ".jpg";
                 if (tipo == 'lampada-quebrada') {
                 quebrada=true;
                 }
@@ -32,7 +32,7 @@
     
 </head>
 <body>
-    <img src="imagens/ideia-sendo-pensada.jpg" id="fundo" no-repeat />
-    <img src="imagens/lampada-apagada.jpg" id="luz" onmousemove="mudaLampada('lampada-acesa')" onmouseout="mudaLampada('lampada-apagada')" onclick="mudaLampada('lampada-quebrada')"/>
+    <img src="Projeto Java Script/imagens/ideia-sendo-pensada.jpg" id="fundo" no-repeat />
+    <img src="Projeto Java Script/imagens/lampada-apagada.jpg" id="luz" onmousemove="mudaLampada('lampada-acesa')" onmouseout="mudaLampada('lampada-apagada')" onclick="mudaLampada('lampada-quebrada')"/>
 </body>
 </html>
