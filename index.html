@@ -7,11 +7,16 @@
             right: auto;
             top: auto;
         }
+        html, body {
+        max-width: 80%;
+        margin: auto;
+        font-family: 'Open Sans', sans-serif; 
+        font-weight: bolder; 
+        box-sizing:border-box; 
+        outline: none;
+        }
         img {
-            max-width: 100%;
-            width: 800px;
-            height: 710px;
-            
+        margin: auto;
         }
     </style>
     <title>Teste JavaScript</title> 
@@ -28,10 +33,11 @@
                 }
             }
         }    
-    </script>
-    
+    </script>  
 </head>
 <body>
+    <p> <h1> LAMPADA ACESA, APAGAGA E QUEBRADA </h1></p>
+    <p> Passe o mouse sobre a lampada e depos clique sobre ela </p>
     <img src="Projeto Java Script/imagens/lampada-apagada.jpg" id="luz" onmousemove="mudaLampada('lampada-acesa')" onmouseout="mudaLampada('lampada-apagada')" onclick="mudaLampada('lampada-quebrada')"/>
 </body>
 </html>
