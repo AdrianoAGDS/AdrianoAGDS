@@ -33,8 +33,4 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="AGDS-NET" height="40" width="60" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
 </div>
 
-<div>
- <a href="https://www.linkedin.com/in/adriano-santos-a09614b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:adriano.santosagds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  </div>
 
