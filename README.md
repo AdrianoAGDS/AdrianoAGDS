@@ -4,7 +4,7 @@
 - 🌱 Estudo atualmente: .Net C# F# VB.NET
 - 💞️ Estou colaborando com o GitHub para aprender e para Interagir  com  outros programadores.
 - 📫 Como você me encontra https://www.linkedin.com/in/adriano-santos-a09614b1/
-- 📫 Contato Whatsapp ✆ 11-94380-3090
+- :iphone: Contato Whatsapp ✆ 11-94380-3090
 -  
 -  Projeto simples e divertido :  https://adrianoagds.github.io/AdrianoAGDS/
 <!---
