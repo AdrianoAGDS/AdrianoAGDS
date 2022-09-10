@@ -1,7 +1,7 @@
 - Oi, Eu sou @AdrianoAGDS
 - Entusiasta da Área de Tecnologia e Futuro Desenvolvedor.
 - Desde novo sempre gostei muito de tecnologia, sistemas, ferramentas do sistema, e desde as minhas primeiras experiencias com computadores entre montagem,desmontagens, manutenções e estudo, eu percebi que é o que gosto de fazer e tenho dom para isso.
-- 🌱 Estudo atualmente: .Net C# F# VB.NET
+- :books: Estudo Atualmente: .Net C# F# VB.NET
 - 💞️ Estou colaborando com o GitHub para aprender e para Interagir  com  outros programadores.
 - 📫 Como você me encontra https://www.linkedin.com/in/adriano-santos-a09614b1/
 - :iphone: Contato Whatsapp ✆ 11-94380-3090
